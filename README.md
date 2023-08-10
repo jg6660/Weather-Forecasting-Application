@@ -29,3 +29,22 @@ weather-forecast-master.
 ● Event Handling
 ● Maven Dependencies
 ● JSON data
+
+## Working
+
+1. Extracting the API KEY
+![API KEY Extraction](./screenshots/api.png)
+
+2. Searching city name
+![Searching City](./screenshots/citysearch.png)
+
+3. Listing out cities
+![Listing Cities](./screenshots/listcities.png)
+
+4. Listing out dates
+![Listing Dates](./screenshots/listdate.png)
+
+5. Displaying weather for given city and date
+![Final Image](./screenshots/finalimage.png)
+
+
